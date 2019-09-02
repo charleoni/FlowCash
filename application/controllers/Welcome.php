@@ -14,7 +14,7 @@ class Welcome extends CI_Controller {
 	
 	public function index()
 	{
-		$data['titulo'] = 'Flujo';
+		$data['titulo'] = 'Tio esto lo edite desde mi PC y lo subi a Git';
 		$data['flujos'] = $this->Flujo_model->flujoIngreso();
 		//var_dump($data);
 		$this->load->view('welcome_message', $data);		
