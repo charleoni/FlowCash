@@ -86,7 +86,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <thead>
       <tr>
         <th>ID_CO</th>
-        <th>valor</th>
+        <th>valor rama Prueba</th>
       </tr>
     </thead>
     <tbody>
